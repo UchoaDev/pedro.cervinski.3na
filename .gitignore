@@ -1,0 +1,19 @@
+# Arquivos do sistema operacional
+.DS_Store
+
+# Arquivos temporários e de depuração
+/target/
+/debug/
+/release/
+
+# Arquivos de cache do Cargo
+Cargo.lock
+
+# Outros arquivos irrelevantes para o repositório Git
+*.vscode/
+*.idea/
+
+# Logs e dados temporários (opcional)
+logs/
+data/tmp/
+
